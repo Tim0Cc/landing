@@ -1,0 +1,14 @@
+#banner {
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+}
+
+#banner h1, #banner p {
+  color: white;
+  margin: 0 auto;
+  font-weight: bold;
+}
+
+#banner .btn {
+}
